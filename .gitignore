@@ -47,5 +47,4 @@ Temporary Items
 .apdisk
 
 #Binary files
-target/classes/dmytro
-target/test-classes
+target/
