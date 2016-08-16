@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.10" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="dmytro.learn.spring.framework.aop.annotations" project="LearnSpringFrameworkAOP" 
+    file="/LearnSpringFrameworkAOP/src/main/java/dmytro/learn/spring/framework/aop/annotations" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="337" x="259" y="-109"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="dmytro.learn.spring.framework.aop.objects" project="LearnSpringFrameworkAOP" 
+    file="/LearnSpringFrameworkAOP/src/main/java/dmytro/learn/spring/framework/aop/objects" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="185" width="716" x="400" y="63"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="3" language="java" name="dmytro.learn.spring.framework.aop.main.AOPMain" project="LearnSpringFrameworkAOP" 
+    file="/LearnSpringFrameworkAOP/src/main/java/dmytro/learn/spring/framework/aop/main/AOPMain.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="130" y="-51"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <annotation id="4" language="java" name="dmytro.learn.spring.framework.aop.annotations.ShowResult" 
+    project="LearnSpringFrameworkAOP" 
+    file="/LearnSpringFrameworkAOP/src/main/java/dmytro/learn/spring/framework/aop/annotations/ShowResult.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="358" y="-31"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <annotation id="5" language="java" name="dmytro.learn.spring.framework.aop.annotations.ShowTime" 
+    project="LearnSpringFrameworkAOP" 
+    file="/LearnSpringFrameworkAOP/src/main/java/dmytro/learn/spring/framework/aop/annotations/ShowTime.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="502" y="-31"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <interface id="6" language="java" name="dmytro.learn.spring.framework.aop.interfaces.Manager" 
+    project="LearnSpringFrameworkAOP" 
+    file="/LearnSpringFrameworkAOP/src/main/java/dmytro/learn/spring/framework/aop/interfaces/Manager.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="746" y="-51"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" name="dmytro.learn.spring.framework.aop.loggins.Logger" 
+    project="LearnSpringFrameworkAOP" 
+    file="/LearnSpringFrameworkAOP/src/main/java/dmytro/learn/spring/framework/aop/loggins/Logger.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="501" y="574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="dmytro.learn.spring.framework.aop.objects.CustomFilenameFilter" 
+    project="LearnSpringFrameworkAOP" 
+    file="/LearnSpringFrameworkAOP/src/main/java/dmytro/learn/spring/framework/aop/objects/CustomFilenameFilter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="994" y="174"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="dmytro.learn.spring.framework.aop.objects.FileManager" 
+    project="LearnSpringFrameworkAOP" 
+    file="/LearnSpringFrameworkAOP/src/main/java/dmytro/learn/spring/framework/aop/objects/FileManager.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="746" y="174"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="dmytro.learn.spring.framework.aop.objects.Numeric" 
+    project="LearnSpringFrameworkAOP" 
+    file="/LearnSpringFrameworkAOP/src/main/java/dmytro/learn/spring/framework/aop/objects/Numeric.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="502" y="174"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="dmytro.learn.spring.framework.aop.postprocessors.CustomBeanPostProcessor" 
+    project="LearnSpringFrameworkAOP" 
+    file="/LearnSpringFrameworkAOP/src/main/java/dmytro/learn/spring/framework/aop/postprocessors/CustomBeanPostProcessor.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="994" y="573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <annotation id="12" language="java" name="org.springframework.stereotype.Component" project="LearnSpringFrameworkCore" 
+    
+    file="C:/Users/Dmytro/.m2/repository/org/springframework/spring-context/4.3.2.RELEASE/spring-context-4.3.2.RELEASE.jar" 
+    binary="true" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="746" y="573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <interface id="13" language="java" name="java.io.FilenameFilter" project="LearnSpringFrameworkAOP" 
+    file="C:/Program Files/Java/jdk1.8.0_101/jre/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="994" y="-51"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <annotation id="14" language="java" name="org.aspectj.lang.annotation.Pointcut" project="LearnSpringFrameworkAOP" 
+    file="C:/Users/Dmytro/.m2/repository/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="280" y="334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <annotation id="15" language="java" name="org.aspectj.lang.annotation.Aspect" project="LearnSpringFrameworkAOP" 
+    file="C:/Users/Dmytro/.m2/repository/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="280" y="448"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <annotation id="16" language="java" name="org.aspectj.lang.annotation.Around" project="LearnSpringFrameworkAOP" 
+    file="C:/Users/Dmytro/.m2/repository/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="280" y="812"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <annotation id="17" language="java" name="org.aspectj.lang.annotation.AfterReturning" 
+    project="LearnSpringFrameworkAOP" 
+    file="C:/Users/Dmytro/.m2/repository/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar" binary="true" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="280" y="574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <annotation id="18" language="java" name="java.lang.SuppressWarnings" project="LearnSpringFrameworkAOP" 
+    file="C:/Program Files/Java/jdk1.8.0_101/jre/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="280" y="700"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </annotation>  
+  <interface id="19" language="java" name="org.springframework.beans.factory.config.BeanPostProcessor" 
+    project="LearnSpringFrameworkAOP" 
+    file="C:/Users/Dmytro/.m2/repository/org/springframework/spring-beans/4.3.2.RELEASE/spring-beans-4.3.2.RELEASE.jar" 
+    binary="true" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="994" y="438"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="false" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <note id="20">    
+    <position height="46" width="118" x="393" y="311"/>    
+    <text><![CDATA[Private methods are pointcuts]]>
+    </text>  
+  </note>  
+  <note id="21">    
+    <position height="92" width="148" x="818" y="256"/>    
+    <text><![CDATA[getExtensionCount() use CustomFilenameFilter for tests if a specified file should be included in a file list.]]>
+    </text>  
+  </note>  
+  <note id="22">    
+    <position height="100" width="200" x="180" y="148"/>    
+    <text><![CDATA[Pointcuts showTimeAnnotation() and showResultAnnotation() use this annotations]]>
+    </text>  
+  </note>  
+  <note id="23">    
+    <position height="47" width="200" x="30" y="13"/>    
+    <text><![CDATA[Main class work with class FileManager]]>
+    </text>  
+  </note>  
+  <dependency id="24">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="25">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="26">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="27">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="29">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <text-link id="30">    
+    <link-end type="SOURCE" refId="22"/>    
+    <link-end type="TARGET" refId="14"/>  
+  </text-link>  
+  <dependency id="31">    
+    <bendpoint x="368" y="741"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <text-link id="32">    
+    <link-end type="SOURCE" refId="23"/>    
+    <link-end type="TARGET" refId="3"/>  
+  </text-link>  
+  <realization id="33">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <realization id="34">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <text-link id="35">    
+    <bendpoint x="329" y="34"/>    
+    <link-end type="SOURCE" refId="22"/>    
+    <link-end type="TARGET" refId="1"/>  
+  </text-link>  
+  <realization id="36">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="38">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="39">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <text-link id="40">    
+    <link-end type="SOURCE" refId="20"/>    
+    <link-end type="TARGET" refId="38"/>  
+  </text-link>  
+  <dependency id="41">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="42">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <text-link id="43">    
+    <link-end type="SOURCE" refId="20"/>    
+    <link-end type="TARGET" refId="14"/>  
+  </text-link>  
+  <text-link id="44">    
+    <link-end type="SOURCE" refId="21"/>    
+    <link-end type="TARGET" refId="26"/>  
+  </text-link>  
+  <dependency id="45">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="false" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
