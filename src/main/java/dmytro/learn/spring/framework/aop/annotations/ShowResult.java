@@ -8,6 +8,6 @@ import java.lang.annotation.Target;
 
 @Retention(RUNTIME)
 @Target(METHOD)
-public @interface ShowResult {
+public @interface ShowResult { //result is great Mytia :)
 
 }
